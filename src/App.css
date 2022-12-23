@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.home-background{
+  background-image: url(https://moodproperties.com/wp-content/uploads/2021/08/Untitled-design-2.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #FFFFFF;
+  width: 100%;
+  left: 0px;
+  max-width: 2500px;
+  min-height: 900px;
+  position: relative;
+  margin-top: -15px;
+}
